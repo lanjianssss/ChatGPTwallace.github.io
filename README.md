@@ -1,0 +1,2 @@
+# ChatGPTwallace.github.io
+ChatGPTwallace
